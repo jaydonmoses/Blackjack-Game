@@ -19,7 +19,7 @@ A simple **Blackjack game** built using **Java Swing**! Place bets, hit, stand, 
    cd Blackjack-Game
 Then Compile & Run the game
 
-Option 2: Run as JAR File
+Option 2: Run as JAR File (Coming Soon)
 Download BlackjackGame.jar from the Releases.
 
 
